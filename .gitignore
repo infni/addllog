@@ -1,0 +1,11 @@
+
+# protobuf auto-generated code
+*.pb.go
+*.pb.gw.go
+*.swagger.json
+
+# VSCode folders
+.vscode/
+
+# Compiled executables
+bin/
